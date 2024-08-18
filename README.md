@@ -9,10 +9,6 @@ I've also been actively involved in student activities and completed several imp
 My technical skills encompass a variety of programming languages and tools, including:
 - **Python**
 - **SQL**
-- **MySQL**
-- **PHP**
-- **C++**
-- **HTML/CSS**
 - **Microsoft Excel**
 - **Power BI**
 
